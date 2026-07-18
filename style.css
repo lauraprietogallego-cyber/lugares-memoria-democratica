@@ -102,3 +102,11 @@ section {
     font-size: 20px;
     max-width: 650px;
 }
+/* INDICADOR DE SCROLL */
+
+.scroll-indicador {
+    position: absolute;
+    bottom: 40px;
+    font-size: 35px;
+    color: var(--rojo-memoria);
+}
