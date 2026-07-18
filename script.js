@@ -4,3 +4,6 @@ const mapa = new maplibregl.Map({
     center: [-3.7038, 40.4168],
     zoom: 5
 });
+
+
+mapa.addControl(new maplibregl.NavigationControl());
