@@ -1,10 +1,23 @@
+:root {
+    --rojo-memoria: #b50e0e;
+    --negro-editorial: #111111;
+    --negro-secundario: #141414;
+    --blanco-roto: #F2F2F2;
+}
+
+
+/* ESTILO GENERAL */
+
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #111;
-    color: white;
+    background-color: var(--negro-editorial);
+    color: var(--blanco-roto);
     text-align: center;
 }
+
+
+/* TITULARES */
 
 h1 {
     font-family: 'Baskervville', serif;
@@ -18,6 +31,9 @@ h2 {
     font-size: 28px;
     font-weight: normal;
 }
+
+
+/* TEXTO */
 
 p {
     font-size: 18px;
@@ -39,20 +55,20 @@ section {
 }
 
 
-/* CADA BLOQUE DEL REPORTAJE */
+/* BLOQUES DEL REPORTAJE */
 
 .portada {
-    background-color: #111111;
+    background-color: var(--negro-editorial);
 }
 
 .contexto {
-    background-color: #141414;
+    background-color: var(--negro-secundario);
 }
 
 .mapa {
-    background-color: #111111;
+    background-color: var(--negro-editorial);
 }
 
 .creditos {
-    background-color: #141414;
+    background-color: var(--negro-secundario);
 }
