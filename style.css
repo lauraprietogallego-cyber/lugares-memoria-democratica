@@ -110,3 +110,13 @@ section {
     font-size: 35px;
     color: var(--rojo-memoria);
 }
+.contenido-contexto {
+    max-width: 900px;
+}
+
+.dato-destacado {
+    margin-top: 60px;
+    font-family: 'Baskervville', serif;
+    font-size: 36px;
+    color: var(--rojo-memoria);
+}
