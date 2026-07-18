@@ -2,14 +2,20 @@
     {
         "nombre": "Madrid",
         "categoria": "Guerra Civil",
+        "fecha": "1936-1939",
         "descripcion": "Lugar de memoria relacionado con la Guerra Civil española.",
+        "fuente": "Ministerio de Cultura",
+        "imagen": "",
         "lat": 40.4168,
         "lon": -3.7038
     },
     {
         "nombre": "Valle de Cuelgamuros",
         "categoria": "Dictadura",
-        "descripcion": "Espacio vinculado a la memoria de la dictadura franquista.",
+        "fecha": "1939-1975",
+        "descripcion": "Espacio vinculado a la memoria de la dictadura franquista y a la historia de la represión y la construcción del monumento.",
+        "fuente": "Ministerio de Cultura",
+        "imagen": "",
         "lat": 40.643,
         "lon": -4.155
     }
