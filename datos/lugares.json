@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Madrid",
+        "categoria": "Guerra Civil",
+        "descripcion": "Lugar de memoria relacionado con la Guerra Civil española.",
+        "lat": 40.4168,
+        "lon": -3.7038
+    },
+    {
+        "nombre": "Valle de Cuelgamuros",
+        "categoria": "Dictadura",
+        "descripcion": "Espacio vinculado a la memoria de la dictadura franquista.",
+        "lat": 40.643,
+        "lon": -4.155
+    }
+]
