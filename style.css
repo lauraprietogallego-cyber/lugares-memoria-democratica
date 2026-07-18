@@ -1,18 +1,20 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: #111;
     color: white;
     text-align: center;
 }
 
 h1 {
+    font-family: 'Baskervville', serif;
     font-size: 60px;
     margin-top: 200px;
     letter-spacing: 2px;
 }
 
 h2 {
+    font-family: 'Baskervville', serif;
     font-size: 28px;
     font-weight: normal;
 }
