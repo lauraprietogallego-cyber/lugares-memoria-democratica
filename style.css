@@ -127,3 +127,29 @@ section {
     height: 70vh;
     margin-top: 40px;
 }
+/* POPUPS DEL MAPA */
+
+.maplibregl-popup-content {
+    background-color: #111111;
+    color: #F2F2F2;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    border-radius: 0;
+    border: 1px solid #b50e0e;
+}
+
+.maplibregl-popup-content h3 {
+    font-family: 'Baskervville', serif;
+    font-size: 26px;
+    margin-top: 0;
+    color: #F2F2F2;
+}
+
+.maplibregl-popup-content p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.maplibregl-popup-content strong {
+    color: #b50e0e;
+}
