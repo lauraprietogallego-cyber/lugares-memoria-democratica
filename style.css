@@ -23,3 +23,34 @@ p {
     margin: 40px auto;
     line-height: 1.6;
 }
+
+
+/* ESTRUCTURA DEL SCROLL */
+
+section {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+
+
+/* CADA BLOQUE DEL REPORTAJE */
+
+.portada {
+    background-color: #111111;
+}
+
+.contexto {
+    background-color: #141414;
+}
+
+.mapa {
+    background-color: #111111;
+}
+
+.creditos {
+    background-color: #141414;
+}
