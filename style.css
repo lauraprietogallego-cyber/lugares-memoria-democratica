@@ -22,7 +22,7 @@ body {
 h1 {
     font-family: 'Baskervville', serif;
     font-size: 60px;
-    margin-top: 200px;
+    margin-top: 0;
     letter-spacing: 2px;
 }
 
@@ -80,4 +80,25 @@ section {
 
 .creditos {
     background-color: var(--negro-secundario);
+}
+/* PORTADA */
+
+.contenido-portada {
+    max-width: 900px;
+    z-index: 1;
+}
+
+.portada h1 {
+    font-size: 80px;
+    line-height: 1.1;
+}
+
+.portada h2 {
+    font-size: 32px;
+    margin-top: 30px;
+}
+
+.portada p {
+    font-size: 20px;
+    max-width: 650px;
 }
